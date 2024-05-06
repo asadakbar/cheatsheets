@@ -6,3 +6,4 @@
 * See installed plugins `asdf plugin list`
 * See installed version of each plugin `asdf current`
 * Install a new version of a plugin `asdf install ruby 3.3.0`
+* See installed versions of a specific plugin `asdf list ruby`
